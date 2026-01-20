@@ -1,8 +1,6 @@
 # AI-Python-Coder
-
 AI Python Coder é uma aplicação web interativa desenvolvida com Streamlit que atua como um assistente de programação especializado em Python, utilizando IA via API da Groq.
 O projeto é focado em ajudar desenvolvedores iniciantes, fornecendo explicações claras, exemplos de código bem comentados e links para a documentação oficial.
-
 
 ## Funcionalidades
 - Interface de chat interativa estilo chatbot
@@ -15,7 +13,6 @@ O projeto é focado em ajudar desenvolvedores iniciantes, fornecendo explicaçõ
 - Interface web simples e responsiva com Streamlit
 
 ## Tecnologias Utilizadas
-
 - Python 3.8+
 - Streamlit
 - Groq Python SDK
